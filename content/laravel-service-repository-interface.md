@@ -7,7 +7,7 @@ date: 12-April-2022
 
 This is a continuation of my previous post: https://dev.to/jsf00/implement-crud-with-laravel-service-repository-pattern-1dkl
 
-You might want to check my previous post about php interface before proceeding. https://josafebalili.com/posts/php-interface/
+You might want to check my previous post about php interface before proceeding. https://josafebalili.vercel.app/php-interface/
 
 Let's create a repository interface for the post. Let's call it PostRepositoryInterface.php. As you can see, this repository class implemented our PostRepository that we created .
 
