@@ -5,7 +5,7 @@ description:
 date: 11-April-2022
 ---
 
-This is a continuation of my previous post: https://josafebalili.com/posts/service-repository-pattern-v2/
+This is a continuation of my previous post: https://josafebalili.vercel.app/laravel-service-repository-interface
 
 Eloquent for me means querying data in database in an elegant way.
 

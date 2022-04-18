@@ -29,4 +29,4 @@ https://github.com/jsafe00/laravel-service-repository/tree/with-interface
 
 
 
-Check the Eloquent Interface implementation at https://josafebalili.com/posts/implement-crud-with-laravel-service-repository-pattern-(with-eloquent-interface)/
+Check the Eloquent Interface implementation at https://josafebalili.vercel.app/laravel-service-repository-eloquent-interface
