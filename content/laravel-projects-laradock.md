@@ -1,5 +1,5 @@
 ---
-slug: laravel-queues-redis-horizon
+slug: laravel-projects-laradock
 title: Run Multiple Laravel Projects with Databases using Laradock
 description: 
 date: 05-April-2022
